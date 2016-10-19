@@ -1,0 +1,9 @@
+c:\users\truong\documents\visual studio 2012\Projects\paint\paint\bin\Debug\paint.exe.config
+c:\users\truong\documents\visual studio 2012\Projects\paint\paint\bin\Debug\paint.exe
+c:\users\truong\documents\visual studio 2012\Projects\paint\paint\bin\Debug\paint.pdb
+c:\users\truong\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.Properties.Resources.resources
+c:\users\truong\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.csproj.GenerateResource.Cache
+c:\users\truong\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.exe
+c:\users\truong\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.pdb
+C:\Users\Truong\documents\visual studio 2012\Projects\Paint\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache
+C:\Users\Truong\documents\visual studio 2012\Projects\Paint\paint\obj\Debug\paint.Form1.resources
